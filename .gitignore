@@ -56,9 +56,9 @@ TestResults.xml
 | chief1_position = https://www.bangkokbank.com/
 | chief2_name     = ธนาคารกรุงไทยสาขาเชียงคาน
 | chief2_position = https://krungthai.com/th/personal
-| parent_agency   =
-| child1_agency   =
-| child2_agency   =
+| parent_agency   = สถานีตำรวจเชียงคาน
+| child1_agency   = https://chiangkhan.loei.police.go.th
+| child2_agency   = https://www.chiangkan.go.th/public/
 | website         = [https://commons.wikimedia.org/wiki/Category:Ministry_of_Interior_(Thailand)]
 | footnotes       =
 }}
